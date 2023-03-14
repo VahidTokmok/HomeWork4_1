@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork4.1</string>
+    <string name="addNameText">Введите имя</string>
+    <string name="addSurnameText">Ведите фамилию</string>
+    <string name="addAgeText">Введие возраст</string>
+    <string name="next">Далее</string>
+    <string name="name">Имя: </string>
+    <string name="surname">Фамилия: </string>
+    <string name="age">Возраст: </string>
+</resources>
