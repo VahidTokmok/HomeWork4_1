@@ -31,7 +31,6 @@ public class SecondActivity extends AppCompatActivity {
             secondIntent.putExtra("nameKey1", textView.getText().toString());
             secondIntent.putExtra("surnameKey", editText.getText().toString());
             startActivity(secondIntent);
-
         });
     }
 }
